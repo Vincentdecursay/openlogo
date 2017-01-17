@@ -133,5 +133,7 @@ Veille technologique sur les domaines ouverts
 <img src="https://cloud.githubusercontent.com/assets/17961060/21892242/1caa48f4-d8d6-11e6-80cb-ec3e197fffa1.png" width="11%"></img> 
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/Terraform.png" width="11%"></img>
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/logo.png" width="11%"></img> 
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/openai_universe_icon.png" width="11%"></img> 
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/openra_logo.jpg" width="11%"></img> 
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/644990edf49ac7678c53eac4102b2.jpg" width="11%"></img> 
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/retropie.png" width="11%"></img> 
