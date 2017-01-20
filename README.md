@@ -137,3 +137,4 @@ Veille technologique sur les domaines ouverts
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/openra_logo.jpg" width="11%"></img> 
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/644990edf49ac7678c53eac4102b2.jpg" width="11%"></img> 
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/retropie.png" width="11%"></img> 
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/GitLab.png" width="11%"></img> 
