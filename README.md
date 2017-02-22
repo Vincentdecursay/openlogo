@@ -142,3 +142,4 @@ Veille technologique sur les domaines ouverts
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/limeSurvey.jpg" width="11%"></img> 
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/RetroArch.png" width="11%"></img> 
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/LibRetro.png" width="11%"></img> 
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/OpenBox.png" width="11%"></img> 
