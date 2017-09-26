@@ -139,10 +139,10 @@ Veille technologique sur les domaines ouverts
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/retropie.png" width="11%"></img>
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/GitLab.png" width="11%"></img>
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/mozilla-new-logo-640x439.jpg" width="11%"></img>
-<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/limeSurvey.jpg" width="11%"></img> 
-<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/RetroArch.png" width="11%"></img> 
-<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/LibRetro.png" width="11%"></img> 
-<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/OpenBox.png" width="11%"></img> 
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/limeSurvey.jpg" width="11%"></img>
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/RetroArch.png" width="11%"></img>
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/LibRetro.png" width="11%"></img>
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/OpenBox.png" width="11%"></img>
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/hypopg.png" width="11%"></img>
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/internet archive.png" width="11%"></img>
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/one.png" width="11%"></img>
@@ -152,3 +152,10 @@ Veille technologique sur les domaines ouverts
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/d3js.png" width="11%"></img>
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/GraphicJs.png" width="11%"></img>
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/obs.png" width="11%"></img>
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/wigle.jpg" width="11%"></img>
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/VeraCrypt_Logo.png" width="11%"></img>
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/navitia.jpg" width="11%"></img>
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/transifex.png" width="11%"></img>
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/lirc.gif" width="11%"></img>
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/debiangis.png" width="11%"></img>
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/draw-io.jpg" width="11%"></img>
