@@ -161,4 +161,4 @@ Veille technologique sur les domaines ouverts
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/draw-io.jpg" width="11%"></img>
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/teamunlimited.png" width="11%"></img>
 <img src="https://github.com/PrefectureDePolice/openlogo/blob/master/jinja-small.png" width="11%"></img>
-
+<img src="https://github.com/PrefectureDePolice/openlogo/blob/master/octave-logo.png" width="11%"></img>
